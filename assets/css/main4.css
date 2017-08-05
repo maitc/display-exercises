@@ -6,8 +6,8 @@ p{
 	padding: 5px;
 }
 .laboratoria, .transformacion{
-	width: 100%;
-	height: 100px;
+	height: 45px;
+	width: 15%;
 	background-color: #FEFE00;
 	border-bottom: 1px solid black;
 	display: inline-block;
@@ -16,11 +16,9 @@ p{
 	margin-bottom: 15px;
 }
 .es{
-	width: 100%;
-	height: 100px;
+	height: 45px;
+	width: 15%;
 	background-color: #ED2251;
 	border-bottom: 1px solid black;
 	margin-bottom: 15px;
 	display: inline-block;
-}
-

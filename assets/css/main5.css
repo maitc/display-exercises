@@ -1,0 +1,17 @@
+div{
+	border: 2px solid black;
+	width: 10%;
+	height: 10%;
+}
+p{
+	display: inline-block;
+}
+.dos-uno, .dos-dos, .dos-tres{
+	display: inline-block;
+}
+.tres{
+	display: inline-block;
+}
+.cuatro{
+	display: inline-block;
+}
